@@ -167,14 +167,7 @@
 	justify-content: center;
 }
 .mapDiv{
-	margin-top: 3%;
-	margin-left: 10%;
-	display: grid;
-	grid-template-columns: repeat(1, 1fr);
-	justify-content: center;
-	align-items: center;
-	height: 110%;
-	width: 80%;
+	 margin-top: 3%;
   }
 
   .maps {
